@@ -25,8 +25,8 @@ BOT_NAMES = [ # Tên để hiển thị trên giao diện, bạn có thể thêm
 
 # --- BIẾN TRẠNG THÁI ---
 bots, acc_names = [], [
-    "Blacklist", "Khanh bang", "Dersale", "Venus", "WhyK", "Tan",
-    "Ylang", "Nina", "Nathan", "Ofer", "White", "the Wicker", "Leader", "Tess", "Wyatt", "Daisy", "CantStop", "Token",
+   "Chicken", "King", "Nhap Ma", "Snoil", "Leaf", "Frog",
+    "Butterfly", "Ant", "Bee", "Leopard", "Antelope", "Elephant", "Hyena", "Giraffe", "Lion", "Swordfish" , "Clown fish" , "Whale" , "Shark", "Lobster", "Octopus",
 ]
 main_bots = []
 servers = []
